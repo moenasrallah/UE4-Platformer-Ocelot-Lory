@@ -6366,3 +6366,432 @@ LogInit: Object subsystem initialized
 [2017.04.19-02.58.18:271][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Example_Map.Example_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Example_Map.Example_Map:PersistentLevel.Example_Map' with GeneratedClass '/Game/Maps/Example_Map.Example_Map_C' with ClassGeneratedBy '/Game/Maps/Example_Map.Example_Map:PersistentLevel.Example_Map'
 [2017.04.19-02.58.22:174][608]LogSavePackage: Save=1860.15ms
 [2017.04.19-02.58.22:174][608]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Example_MapDA51BDC245680A20184FFEA15B8D2A02.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Maps/Example_Map.umap'
+[2017.04.19-02.58.22:180][608]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Maps/Example_Map.umap
+[2017.04.19-03.08.00:410][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_026" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_026.uasset" SILENT=true
+[2017.04.19-03.08.00:420][439]LogSavePackage: Save=9.15ms
+[2017.04.19-03.08.00:420][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_026A74CAEB642299A35C1423E80AEF77062.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_026.uasset'
+[2017.04.19-03.08.00:422][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_026.uasset
+[2017.04.19-03.08.00:438][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Green_metal" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Green_metal.uasset" SILENT=true
+[2017.04.19-03.08.00:448][439]LogSavePackage: Save=9.28ms
+[2017.04.19-03.08.00:448][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Green_metal71E7F36541C7A54569088588D4C3CE65.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Green_metal.uasset'
+[2017.04.19-03.08.00:449][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Green_metal.uasset
+[2017.04.19-03.08.00:465][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dark_metal" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Dark_metal.uasset" SILENT=true
+[2017.04.19-03.08.00:475][439]LogSavePackage: Save=9.09ms
+[2017.04.19-03.08.00:475][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Dark_metal18744145419D79017E3611A21D9BE3C5.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Dark_metal.uasset'
+[2017.04.19-03.08.00:476][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Dark_metal.uasset
+[2017.04.19-03.08.00:492][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grey_metal_1" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Grey_metal_1.uasset" SILENT=true
+[2017.04.19-03.08.00:502][439]LogSavePackage: Save=8.69ms
+[2017.04.19-03.08.00:502][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Grey_metal_18CA9BD17477CE0A3F4FF7CABE35DF1FF.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Grey_metal_1.uasset'
+[2017.04.19-03.08.00:503][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Grey_metal_1.uasset
+[2017.04.19-03.08.00:523][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cloth" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Cloth.uasset" SILENT=true
+[2017.04.19-03.08.00:533][439]LogSavePackage: Save=8.91ms
+[2017.04.19-03.08.00:533][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Cloth886C4B3546A75548669188BB3AEB9765.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Cloth.uasset'
+[2017.04.19-03.08.00:534][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Cloth.uasset
+[2017.04.19-03.08.00:549][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wood" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Wood.uasset" SILENT=true
+[2017.04.19-03.08.00:559][439]LogSavePackage: Save=8.84ms
+[2017.04.19-03.08.00:559][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Wood0DCB6F2A4A3340F3F9157BAB91BDFE2F.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Wood.uasset'
+[2017.04.19-03.08.00:560][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Wood.uasset
+[2017.04.19-03.08.00:576][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Glass" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Glass.uasset" SILENT=true
+[2017.04.19-03.08.00:585][439]LogSavePackage: Save=8.96ms
+[2017.04.19-03.08.00:585][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Glass66BF9ADC4DD9B35276860BB7826AC9B7.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Glass.uasset'
+[2017.04.19-03.08.00:586][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Glass.uasset
+[2017.04.19-03.08.00:602][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_027" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_027.uasset" SILENT=true
+[2017.04.19-03.08.00:611][439]LogSavePackage: Save=8.24ms
+[2017.04.19-03.08.00:611][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_027951D43BF46E2D31A5C1E4FB96374A663.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_027.uasset'
+[2017.04.19-03.08.00:613][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_027.uasset
+[2017.04.19-03.08.00:628][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Red_metal" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Red_metal.uasset" SILENT=true
+[2017.04.19-03.08.00:637][439]LogSavePackage: Save=8.78ms
+[2017.04.19-03.08.00:637][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Red_metalF3BDC176439FCE9E389779945B4950BF.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Red_metal.uasset'
+[2017.04.19-03.08.00:638][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Red_metal.uasset
+[2017.04.19-03.08.00:653][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_001" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_001.uasset" SILENT=true
+[2017.04.19-03.08.00:661][439]LogSavePackage: Save=7.75ms
+[2017.04.19-03.08.00:661][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_00136DF23754B6EB906B3615E89B11885B5.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_001.uasset'
+[2017.04.19-03.08.00:662][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_001.uasset
+[2017.04.19-03.08.00:677][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dark_blue_metal" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Dark_blue_metal.uasset" SILENT=true
+[2017.04.19-03.08.00:687][439]LogSavePackage: Save=8.81ms
+[2017.04.19-03.08.00:687][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Dark_blue_metal51390FD14F9F0CB4FEC951BDB8C79C9A.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Dark_blue_metal.uasset'
+[2017.04.19-03.08.00:688][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Dark_blue_metal.uasset
+[2017.04.19-03.08.00:704][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue_metal" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Blue_metal.uasset" SILENT=true
+[2017.04.19-03.08.00:715][439]LogSavePackage: Save=9.56ms
+[2017.04.19-03.08.00:715][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Blue_metal1CAFAAE347B4DF5590E9F4B62A319A26.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Blue_metal.uasset'
+[2017.04.19-03.08.00:716][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Blue_metal.uasset
+[2017.04.19-03.08.00:731][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_016" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_016.uasset" SILENT=true
+[2017.04.19-03.08.00:739][439]LogSavePackage: Save=7.49ms
+[2017.04.19-03.08.00:739][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_0166900C9E9432ABE8E00B26B8341453A42.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_016.uasset'
+[2017.04.19-03.08.00:740][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_016.uasset
+[2017.04.19-03.08.00:755][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_003" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_003.uasset" SILENT=true
+[2017.04.19-03.08.00:764][439]LogSavePackage: Save=8.29ms
+[2017.04.19-03.08.00:764][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_0032EE6DF12410F101AFC8F53A8DA2BF276.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_003.uasset'
+[2017.04.19-03.08.00:765][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_003.uasset
+[2017.04.19-03.08.00:781][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grey_metal_3" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Grey_metal_3.uasset" SILENT=true
+[2017.04.19-03.08.00:790][439]LogSavePackage: Save=8.87ms
+[2017.04.19-03.08.00:790][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Grey_metal_3B36DE3D04F64E85AFBD0399FC087C71C.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Grey_metal_3.uasset'
+[2017.04.19-03.08.00:791][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Grey_metal_3.uasset
+[2017.04.19-03.08.00:806][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_004" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_004.uasset" SILENT=true
+[2017.04.19-03.08.00:814][439]LogSavePackage: Save=7.72ms
+[2017.04.19-03.08.00:814][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_0045E9C091E482D1242224B519B73813C94.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_004.uasset'
+[2017.04.19-03.08.00:815][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_004.uasset
+[2017.04.19-03.08.00:830][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_005" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_005.uasset" SILENT=true
+[2017.04.19-03.08.00:838][439]LogSavePackage: Save=7.64ms
+[2017.04.19-03.08.00:838][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_005400F3BC5486C0D729E746FA18F0C64EA.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_005.uasset'
+[2017.04.19-03.08.00:839][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_005.uasset
+[2017.04.19-03.08.00:855][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yellow_metal" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Yellow_metal.uasset" SILENT=true
+[2017.04.19-03.08.01:094][439]LogSavePackage: Save=65.68ms
+[2017.04.19-03.08.01:094][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Yellow_metalEC725CE14DCE27D670AC8FB4D9611A9A.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Yellow_metal.uasset'
+[2017.04.19-03.08.01:096][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Yellow_metal.uasset
+[2017.04.19-03.08.01:121][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_006" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_006.uasset" SILENT=true
+[2017.04.19-03.08.01:132][439]LogSavePackage: Save=10.26ms
+[2017.04.19-03.08.01:132][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_006827FB41B4907C2DABADFD5A11AA8D00F.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_006.uasset'
+[2017.04.19-03.08.01:134][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_006.uasset
+[2017.04.19-03.08.01:151][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_007" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_007.uasset" SILENT=true
+[2017.04.19-03.08.01:160][439]LogSavePackage: Save=8.14ms
+[2017.04.19-03.08.01:160][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_007FC37483A49AF6A0C57757691CBA36AB4.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_007.uasset'
+[2017.04.19-03.08.01:161][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_007.uasset
+[2017.04.19-03.08.01:177][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_008" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_008.uasset" SILENT=true
+[2017.04.19-03.08.01:187][439]LogSavePackage: Save=8.77ms
+[2017.04.19-03.08.01:187][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_008E65901F7448174D88A69E999EA19FE1D.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_008.uasset'
+[2017.04.19-03.08.01:188][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_008.uasset
+[2017.04.19-03.08.01:203][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_009" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_009.uasset" SILENT=true
+[2017.04.19-03.08.01:211][439]LogSavePackage: Save=7.54ms
+[2017.04.19-03.08.01:211][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_009074D5E344C53F7229EFB8BA38B3A086E.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_009.uasset'
+[2017.04.19-03.08.01:212][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_009.uasset
+[2017.04.19-03.08.01:227][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_010" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_010.uasset" SILENT=true
+[2017.04.19-03.08.01:236][439]LogSavePackage: Save=8.39ms
+[2017.04.19-03.08.01:236][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_0101D0440384BA9A277B9A348902915246D.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_010.uasset'
+[2017.04.19-03.08.01:237][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_010.uasset
+[2017.04.19-03.08.01:251][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_011" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_011.uasset" SILENT=true
+[2017.04.19-03.08.01:283][439]LogSavePackage: Save=8.23ms
+[2017.04.19-03.08.01:283][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_011D007C87649542AF0EB79D9800C722EA6.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_011.uasset'
+[2017.04.19-03.08.01:284][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_011.uasset
+[2017.04.19-03.08.01:299][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_012" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_012.uasset" SILENT=true
+[2017.04.19-03.08.01:307][439]LogSavePackage: Save=7.43ms
+[2017.04.19-03.08.01:307][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_012D6FBC9E646DF2E1C46EA0F93DF6AAD6F.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_012.uasset'
+[2017.04.19-03.08.01:308][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_012.uasset
+[2017.04.19-03.08.01:324][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_013" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_013.uasset" SILENT=true
+[2017.04.19-03.08.01:333][439]LogSavePackage: Save=8.79ms
+[2017.04.19-03.08.01:333][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_013E58A1CE24ABF92E5F6B0AC8BF6996E72.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_013.uasset'
+[2017.04.19-03.08.01:334][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_013.uasset
+[2017.04.19-03.08.01:349][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_014" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_014.uasset" SILENT=true
+[2017.04.19-03.08.01:358][439]LogSavePackage: Save=7.80ms
+[2017.04.19-03.08.01:358][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_014B6DA46BC4CE791789EE7ACA4C8388957.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_014.uasset'
+[2017.04.19-03.08.01:359][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_014.uasset
+[2017.04.19-03.08.01:373][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_015" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_015.uasset" SILENT=true
+[2017.04.19-03.08.01:382][439]LogSavePackage: Save=8.14ms
+[2017.04.19-03.08.01:382][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_015CC81F811456729E867D801AFD8332216.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_015.uasset'
+[2017.04.19-03.08.01:383][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_015.uasset
+[2017.04.19-03.08.01:398][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_017" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_017.uasset" SILENT=true
+[2017.04.19-03.08.01:406][439]LogSavePackage: Save=7.35ms
+[2017.04.19-03.08.01:406][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_017B09C7AC14666576561A395AC54B754E9.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_017.uasset'
+[2017.04.19-03.08.01:407][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_017.uasset
+[2017.04.19-03.08.01:422][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_018" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_018.uasset" SILENT=true
+[2017.04.19-03.08.01:432][439]LogSavePackage: Save=7.99ms
+[2017.04.19-03.08.01:432][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_018DD93414E4270B32F9F1E41A1B3FD4934.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_018.uasset'
+[2017.04.19-03.08.01:433][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_018.uasset
+[2017.04.19-03.08.01:447][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_019" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_019.uasset" SILENT=true
+[2017.04.19-03.08.01:456][439]LogSavePackage: Save=8.06ms
+[2017.04.19-03.08.01:456][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_019A141C0194FFB7295C7BD9B87831D422E.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_019.uasset'
+[2017.04.19-03.08.01:457][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_019.uasset
+[2017.04.19-03.08.01:472][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_020" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_020.uasset" SILENT=true
+[2017.04.19-03.08.01:484][439]LogSavePackage: Save=8.75ms
+[2017.04.19-03.08.01:484][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_020369CC0AA4C6569A1CABB43BD949CB0DE.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_020.uasset'
+[2017.04.19-03.08.01:485][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_020.uasset
+[2017.04.19-03.08.01:499][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_021" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_021.uasset" SILENT=true
+[2017.04.19-03.08.01:507][439]LogSavePackage: Save=7.44ms
+[2017.04.19-03.08.01:507][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_021E1EDD83E47064F18F685E88EE33C5121.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_021.uasset'
+[2017.04.19-03.08.01:508][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_021.uasset
+[2017.04.19-03.08.01:523][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_022" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_022.uasset" SILENT=true
+[2017.04.19-03.08.01:532][439]LogSavePackage: Save=8.23ms
+[2017.04.19-03.08.01:532][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_0221A2121EC4E8F80FF28BAC29CF74BD4C6.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_022.uasset'
+[2017.04.19-03.08.01:533][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_022.uasset
+[2017.04.19-03.08.01:547][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_023" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_023.uasset" SILENT=true
+[2017.04.19-03.08.01:556][439]LogSavePackage: Save=8.17ms
+[2017.04.19-03.08.01:556][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_02324AD232A480CEC9D81B8BEAACA2BAC8A.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_023.uasset'
+[2017.04.19-03.08.01:557][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_023.uasset
+[2017.04.19-03.08.01:572][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_024" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_024.uasset" SILENT=true
+[2017.04.19-03.08.01:581][439]LogSavePackage: Save=8.09ms
+[2017.04.19-03.08.01:581][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_0242D8CA79D41BD7E62FDAD0D877F808632.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_024.uasset'
+[2017.04.19-03.08.01:582][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_024.uasset
+[2017.04.19-03.08.01:597][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_025" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_025.uasset" SILENT=true
+[2017.04.19-03.08.01:605][439]LogSavePackage: Save=7.78ms
+[2017.04.19-03.08.01:605][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_025A2B9063443C9A1D4EF6A6CBB409D4938.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_025.uasset'
+[2017.04.19-03.08.01:606][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_025.uasset
+[2017.04.19-03.08.01:621][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_028" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_028.uasset" SILENT=true
+[2017.04.19-03.08.01:630][439]LogSavePackage: Save=7.53ms
+[2017.04.19-03.08.01:630][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_028AA7AB1F241725A9BFCFF0DBDEAE7EE48.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_028.uasset'
+[2017.04.19-03.08.01:630][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_028.uasset
+[2017.04.19-03.08.01:645][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/watercraftPack_029" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_029.uasset" SILENT=true
+[2017.04.19-03.08.01:654][439]LogSavePackage: Save=7.47ms
+[2017.04.19-03.08.01:654][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/watercraftPack_02992F22B7142441E2B4E0C2EBB9D39D17B.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_029.uasset'
+[2017.04.19-03.08.01:654][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/watercraftPack_029.uasset
+[2017.04.19-03.08.01:670][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/biplane" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/biplane.uasset" SILENT=true
+[2017.04.19-03.08.01:698][439]LogSavePackage: Save=8.03ms
+[2017.04.19-03.08.01:698][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/biplane807BF55E49B0AA753A1CE3B99861A6AC.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/biplane.uasset'
+[2017.04.19-03.08.01:699][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/biplane.uasset
+[2017.04.19-03.08.01:716][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/defaultMat" FILE="../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/defaultMat.uasset" SILENT=true
+[2017.04.19-03.08.01:725][439]LogSavePackage: Save=8.60ms
+[2017.04.19-03.08.01:725][439]LogSavePackage: Moving '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/defaultMat9E973A08403D29D3C1C533A01E7F88D4.tmp' to '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/defaultMat.uasset'
+[2017.04.19-03.08.01:726][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/defaultMat.uasset
+[2017.04.19-03.08.03:486][510]Cmd: QUIT_EDITOR
+[2017.04.19-03.08.03:855][510]LogExit: Preparing to exit.
+[2017.04.19-03.08.04:979][510]LogDirectoryWatcher: A directory notification for 'C:/Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/' was aborted.
+[2017.04.19-03.08.05:362][510]LogExit: Editor shut down
+[2017.04.19-03.08.05:362][510]LogExit: Transaction tracking system shut down
+[2017.04.19-03.08.07:608][510]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.19-03.08.07:609][510]LogExit: Object subsystem successfully closed.
+[2017.04.19-03.08.08:430][510]LogD3D11RHI: Shutdown
+[2017.04.19-03.08.08:463][510]LogD3D11RHI: CleanupD3DDevice
+[2017.04.19-03.08.09:082][510]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.19-03.08.10:558][510]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.19-03.08.10:558][510]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B759ECC70-40B7-C79C-5677-24817936A51B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=e6e91728494079c90537bbb9c5d8f692%7C331b3c96aad140b59eb92ce2ca2f5714%7Cb7dd591c-65e8-4131-8f42-93f5db196394&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.19-03.08.10:663][510]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (244)
+[2017.04.19-03.08.10:672][510]LogModuleManager: Shutting down and abandoning module MaterialEditor (243)
+[2017.04.19-03.08.10:672][510]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (242)
+[2017.04.19-03.08.10:672][510]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.04.19-03.08.10:679][510]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.04.19-03.08.10:686][510]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.04.19-03.08.10:686][510]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.19-03.08.10:686][510]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.19-03.08.10:702][510]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.04.19-03.08.10:705][510]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.19-03.08.10:705][510]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.19-03.08.10:705][510]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.19-03.08.10:716][510]LogDirectoryWatcher: A directory notification for 'C:/Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Collections/' was aborted.
+[2017.04.19-03.08.10:716][510]LogDirectoryWatcher: A directory notification for 'C:/Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/Developers/Brandon/Collections/' was aborted.
+[2017.04.19-03.08.10:716][510]LogDirectoryWatcher: A directory notification for 'C:/Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Saved/Collections/' was aborted.
+[2017.04.19-03.08.10:716][510]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.19-03.08.10:722][510]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.19-03.08.10:722][510]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.19-03.08.10:744][510]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.19-03.08.10:744][510]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.19-03.08.10:744][510]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.19-03.08.10:744][510]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.19-03.08.10:744][510]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.19-03.08.10:749][510]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.19-03.08.10:769][510]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.19-03.08.10:777][510]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.19-03.08.10:799][510]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.19-03.08.10:806][510]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.19-03.08.10:822][510]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.19-03.08.10:832][510]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.19-03.08.10:832][510]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.19-03.08.10:832][510]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.19-03.08.10:833][510]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.19-03.08.10:833][510]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.19-03.08.10:833][510]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.19-03.08.10:833][510]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.19-03.08.10:833][510]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.19-03.08.10:833][510]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.19-03.08.10:841][510]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.19-03.08.10:841][510]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.19-03.08.10:841][510]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.19-03.08.10:841][510]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.19-03.08.10:841][510]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.19-03.08.10:841][510]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.19-03.08.10:851][510]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.19-03.08.10:862][510]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.19-03.08.10:865][510]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.19-03.08.10:865][510]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.19-03.08.10:877][510]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.19-03.08.10:877][510]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.19-03.08.11:088][510]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.19-03.08.11:131][510]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.19-03.08.11:131][510]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.19-03.08.11:131][510]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.19-03.08.11:135][510]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.19-03.08.11:162][510]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.19-03.08.11:173][510]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.19-03.08.11:187][510]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.19-03.08.11:209][510]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.19-03.08.11:209][510]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.19-03.08.11:213][510]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.19-03.08.11:226][510]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.19-03.08.11:232][510]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.19-03.08.11:240][510]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.19-03.08.11:248][510]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.19-03.08.11:248][510]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.19-03.08.11:256][510]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.19-03.08.11:267][510]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.19-03.08.11:268][510]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.19-03.08.11:268][510]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.19-03.08.11:268][510]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.19-03.08.11:284][510]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.19-03.08.11:298][510]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.19-03.08.11:312][510]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.19-03.08.11:362][510]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.19-03.08.11:362][510]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.19-03.08.11:449][510]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.19-03.08.11:459][510]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.19-03.08.11:474][510]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.19-03.08.11:634][510]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.19-03.08.11:634][510]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.19-03.08.11:667][510]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.19-03.08.11:668][510]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.19-03.08.11:668][510]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.19-03.08.11:714][510]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.19-03.08.11:718][510]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.19-03.08.11:718][510]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.19-03.08.11:794][510]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.19-03.08.11:795][510]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.19-03.08.11:808][510]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.19-03.08.11:826][510]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.19-03.08.11:827][510]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.19-03.08.11:841][510]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.19-03.08.11:841][510]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.19-03.08.11:842][510]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.19-03.08.11:842][510]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.19-03.08.11:842][510]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.19-03.08.11:842][510]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.19-03.08.11:842][510]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.19-03.08.11:842][510]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.19-03.08.11:842][510]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.19-03.08.11:848][510]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.19-03.08.11:848][510]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.19-03.08.12:248][510]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.19-03.08.12:317][510]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.19-03.08.12:317][510]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.19-03.08.12:317][510]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.19-03.08.12:317][510]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.19-03.08.12:320][510]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.19-03.08.12:346][510]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.19-03.08.12:346][510]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.19-03.08.12:346][510]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.19-03.08.12:346][510]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.19-03.08.12:346][510]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.19-03.08.12:350][510]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.19-03.08.12:350][510]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.19-03.08.12:384][510]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.19-03.08.12:384][510]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.19-03.08.12:384][510]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.19-03.08.12:384][510]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.19-03.08.12:391][510]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.19-03.08.12:404][510]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.19-03.08.12:404][510]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.19-03.08.12:404][510]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.19-03.08.12:404][510]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.19-03.08.12:412][510]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.19-03.08.12:449][510]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.19-03.08.12:466][510]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.19-03.08.12:466][510]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.19-03.08.12:477][510]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.19-03.08.12:477][510]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.19-03.08.12:505][510]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.19-03.08.12:559][510]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.19-03.08.12:565][510]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.19-03.08.12:572][510]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.19-03.08.12:572][510]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.19-03.08.12:596][510]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.19-03.08.12:596][510]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.19-03.08.12:596][510]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.19-03.08.12:613][510]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.19-03.08.12:613][510]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.19-03.08.12:613][510]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.19-03.08.12:623][510]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.19-03.08.12:624][510]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.19-03.08.12:636][510]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.19-03.08.12:736][510]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.19-03.08.12:866][510]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.19-03.08.12:866][510]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.19-03.08.12:876][510]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.19-03.08.12:886][510]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.19-03.08.12:904][510]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.19-03.08.12:904][510]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.19-03.08.12:907][510]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.19-03.08.12:907][510]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.19-03.08.12:907][510]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.19-03.08.12:907][510]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.19-03.08.12:926][510]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.19-03.08.12:936][510]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.19-03.08.12:948][510]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.19-03.08.12:970][510]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.19-03.08.12:970][510]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.19-03.08.12:970][510]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.19-03.08.12:987][510]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.19-03.08.13:005][510]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.19-03.08.13:005][510]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.19-03.08.13:031][510]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.19-03.08.13:031][510]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.19-03.08.13:035][510]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.19-03.08.13:036][510]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.19-03.08.13:036][510]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.19-03.08.13:036][510]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.19-03.08.13:036][510]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.19-03.08.13:036][510]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.19-03.08.13:036][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.19-03.08.13:036][510]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Brandon/Desktop/Git/OcelotAndLory/OcelotAndLory/Content/' was aborted.
+[2017.04.19-03.08.13:036][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.19-03.08.13:037][510]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.19-03.08.13:144][510]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.19-03.08.13:144][510]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.19-03.08.13:144][510]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.19-03.08.13:157][510]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.19-03.08.13:162][510]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.19-03.08.13:180][510]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.19-03.08.13:180][510]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.19-03.08.13:202][510]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.19-03.08.13:303][510]LogDerivedDataCache: Shutdown
+[2017.04.19-03.08.13:303][510]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.19-03.08.13:312][510]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.19-03.08.13:318][510]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.19-03.08.13:330][510]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.19-03.08.13:339][510]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.19-03.08.13:339][510]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.19-03.08.13:348][510]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.19-03.08.13:348][510]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.19-03.08.13:371][510]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.19-03.08.13:371][510]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.19-03.08.13:371][510]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.19-03.08.13:371][510]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.19-03.08.13:378][510]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.19-03.08.13:385][510]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.19-03.08.13:385][510]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.19-03.08.13:385][510]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.19-03.08.13:397][510]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.19-03.08.13:404][510]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.19-03.08.13:414][510]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.19-03.08.13:424][510]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.19-03.08.13:434][510]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.19-03.08.13:441][510]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.19-03.08.13:441][510]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.19-03.08.13:441][510]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.19-03.08.13:441][510]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.19-03.08.13:441][510]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.19-03.08.13:441][510]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.19-03.08.13:441][510]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.19-03.08.13:441][510]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.19-03.08.13:441][510]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.19-03.08.13:449][510]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.19-03.08.13:449][510]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.19-03.08.13:449][510]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.19-03.08.13:450][510]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.19-03.08.13:473][510]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.19-03.08.13:498][510]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.19-03.08.13:498][510]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.19-03.08.13:511][510]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.19-03.08.13:511][510]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.19-03.08.13:511][510]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.19-03.08.13:511][510]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.19-03.08.13:524][510]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.19-03.08.13:530][510]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.19-03.08.13:530][510]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.19-03.08.13:539][510]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.19-03.08.13:549][510]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.19-03.08.13:549][510]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.19-03.08.13:549][510]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.19-03.08.13:554][510]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.19-03.08.13:563][510]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.19-03.08.13:563][510]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.19-03.08.13:583][510]LogExit: Exiting.
+[2017.04.19-03.08.13:637][510]Log file closed, 04/18/17 23:08:13
